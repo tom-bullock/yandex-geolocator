@@ -1,2 +1,2 @@
 # yandex-geolocator
-A free geolocator that uses Yandex's API to generate GRID from Russian addresses.
+A free geolocator that uses Yandex's API to generate COORDINATE GRID from Russian addresses.
