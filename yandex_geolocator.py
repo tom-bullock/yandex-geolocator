@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import requests
 import re
 
@@ -20,4 +14,3 @@ def yandex_geolocator(address):
     lon, lat = grid[0], grid[1]
     
     return lat,lon
-
